@@ -1,3 +1,6 @@
 'use strict';
+var Twit = require('twit');
 
-console.log('Hello world');
+var t = new Twit({
+    consumer_key: 
+}
