@@ -29,10 +29,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.js" />
-    <Compile Include="token.js">
-      <SubType>Code</SubType>
-      <Publish>False</Publish>
-    </Compile>
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>
