@@ -260,3 +260,4 @@ paket-files/
 __pycache__/
 *.pyc
 /TwitterBot/TwitterBot/token.js
+/TwitterBot/TwitterBot/users.json

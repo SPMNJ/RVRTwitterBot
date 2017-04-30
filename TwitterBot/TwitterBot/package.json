@@ -1,13 +1,13 @@
 {
-  "name": "twitter-bot",
-  "version": "0.0.0",
-  "description": "TwitterBot",
-  "main": "app.js",
   "author": {
     "name": "Sean"
   },
   "dependencies": {
     "jsonfile": "^3.0.0",
     "twit": "^2.2.5"
-  }
+  },
+  "description": "TwitterBot",
+  "main": "app.js",
+  "name": "twitter-bot",
+  "version": "0.0.0"
 }
